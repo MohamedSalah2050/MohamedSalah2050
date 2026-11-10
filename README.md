@@ -1,140 +1,74 @@
-
 <div align="center">
 
-# Hi, I'm Mohamed Salah 👋
+<!-- بانر متحرك بتيمة Flutter -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Flutter+Developer;Dart+Programmer;Computer+Science+Student;Passionate+About+Mobile+App+Development" alt="Typing Animation" />
+<!-- نص بيتكتب لوحده -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2313B9FD&size=25&center=true&vCenter=true&width=680&height=50&lines=Flutter+Developer;Mobile+App+Developer;Computer+Science+Student" alt="Typing SVG" />
+</a>
 
-<img src="https://img.shields.io/badge/Flutter-Mobile%20Development-7AA2F7?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-Programming-9D7CD8?style=for-the-badge&logo=dart&logoColor=white" />
+<!-- مكان صورة Flutter المتحركة: استبدل الرابط بأي GIF بتحبه -->
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" height="60" />
 
 </div>
 
----
+## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30"/> About Me
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+<img align="right" width="300" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" />
 
-<h2>🙋‍♂️ About Me</h2>
-
-<p>🎓 Computer Science Student at Sohag University.</p>
-<p>💻 Currently learning Flutter & Dart.</p>
-<p>📱 Passionate about Mobile App Development.</p>
-<p>🚀 Building Flutter projects and improving my programming skills.</p>
-<p>📚 Always learning and exploring new technologies.</p>
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="230" alt="Developer working on a laptop" />
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="180" alt="Handshake animation" />
-
-</td>
-<td width="68%" valign="middle">
-
-<h2>🤝 Connect With Me</h2>
-
-<a href="https://github.com/MohamedSalah2050">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<a href="mailto:mohamedsalahm11m@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="70%" valign="middle">
-
-<h2>🛠️ Technical Stack & Skills</h2>
-
-<h3>⚡ Interactive Tech Bar</h3>
-
-<p>
-<a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /></a>
-<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
-<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
-<a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a>
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>
-<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" /></a>
-</p>
-
-<h3>🧠 Computer Science Fundamentals</h3>
-
-<p>
-<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-7AA2F7?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Structures-Core%20Concepts-9D7CD8?style=flat-square" />
-<img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-2AC3DE?style=flat-square" />
-</p>
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="220" alt="Floating technology stack animation" />
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedSalah2050&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=9D7CD8&text_color=C0CAF5&rank_icon=github" alt="GitHub Statistics" />
+- 🎓 **Computer Science Student** at YOUR_UNIVERSITY.
+- 📱 **Flutter Developer** building cross-platform mobile apps.
+- 💼 YOUR_EXPERIENCE_OR_INTERNSHIP
+- 🏆 YOUR_ACHIEVEMENT
+- 🚀 Passionate about building smooth, beautiful mobile apps.
+- 💼 Open for opportunities.
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSalah2050&layout=compact&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5" alt="Most Used Languages" />
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=02569B&style=flat-square&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
 
-</div>
+## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Connect-with-me.gif?raw=true" width="30"/> Connect With Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🛠️ Technical Stack & Skills
+
+### ⚡ Interactive Tech Bar
+
+[![](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,postman,figma,androidstudio,vscode)](https://skillicons.dev)
+
+### 📱 Mobile Development
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-7B42F6?style=for-the-badge)
+
+### 🗄️ Databases & Development Tools
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+
+### 🧠 Problem Solving & Core Computer Science
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-E83F25?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-A62C2C?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge)
+
+### 🤝 Leadership & Collaboration
+
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-156E57?style=for-the-badge)
+![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-3D365C?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Cross--functional%20Teamwork-7C4585?style=for-the-badge)
+
+<!-- هنا هتضيف المشاريع بتاعتك بعدين -->
 
 <div align="center">
-
-### ✨ Projects Coming Soon ✨
-
-Currently building Flutter applications and improving my development skills.
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Always Learning. Always Building.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:9D7CD8&height=120&section=footer" width="100%" alt="Animated footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=100&section=footer" width="100%" />
 </div>
