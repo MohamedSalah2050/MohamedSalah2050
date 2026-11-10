@@ -1,4 +1,4 @@
-<img width="400" height="300" alt="flutter-laptop" src="https://github.com/user-attachments/assets/45d80dc1-3a40-4cac-aee4-6933f4d31548" />
+
 <div align="center">
 
 <!-- بانر متحرك بتيمة Flutter -->
@@ -17,7 +17,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30"/> About Me
 
-<img align="right" width="200" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" />
+<img align="right" width="250" src="https://github.com/user-attachments/assets/45d80dc1-3a40-4cac-aee4-6933f4d31548" />
 
 - 🎓 **Junior Computer Science Student** at **Sohag University**.
 - 📱 **Flutter Developer** building cross-platform mobile apps for Android & iOS.
