@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- بانر متحرك بتيمة Flutter -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Hi,%20I'm%20Mohamed%20Salah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <!-- نص بيتكتب لوحده -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,13 +16,13 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30"/> About Me
 
-<img align="right" width="300" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 **Computer Science Student** at YOUR_UNIVERSITY.
-- 📱 **Flutter Developer** building cross-platform mobile apps.
-- 💼 YOUR_EXPERIENCE_OR_INTERNSHIP
-- 🏆 YOUR_ACHIEVEMENT
-- 🚀 Passionate about building smooth, beautiful mobile apps.
+- 🎓 **Junior Computer Science Student** at **Sohag University**.
+- 📱 **Flutter Developer** building cross-platform mobile apps for Android & iOS.
+- 🧩 Working with **Dart, State Management, REST APIs, and Firebase**.
+- 🎨 Passionate about clean **UI/UX** and smooth app animations.
+- 🚀 Always learning and building new mobile app ideas.
 - 💼 Open for opportunities.
 
 <br/>
@@ -47,13 +47,6 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-7B42F6?style=for-the-badge)
-
-### 🗄️ Databases & Development Tools
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 ### 🧠 Problem Solving & Core Computer Science
 
