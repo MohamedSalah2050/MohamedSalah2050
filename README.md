@@ -1,3 +1,4 @@
+<img width="400" height="300" alt="flutter-laptop" src="https://github.com/user-attachments/assets/45d80dc1-3a40-4cac-aee4-6933f4d31548" />
 <div align="center">
 
 <!-- بانر متحرك بتيمة Flutter -->
