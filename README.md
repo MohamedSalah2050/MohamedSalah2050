@@ -16,7 +16,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30"/> About Me
 
-<img align="right" width="300" src="assets/coder.svg" />
+<img align="right" width="300" src="assets/coder.png" />
 
 - 🎓 **Junior Computer Science Student** at **Sohag University**.
 - 📱 **Flutter Developer** building cross-platform mobile apps for Android & iOS.
