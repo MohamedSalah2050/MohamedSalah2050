@@ -16,7 +16,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30"/> About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="assets/coder.svg" />
 
 - 🎓 **Junior Computer Science Student** at **Sohag University**.
 - 📱 **Flutter Developer** building cross-platform mobile apps for Android & iOS.
@@ -27,13 +27,13 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=02569B&style=flat-square&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Eng-MohamedHosny&color=02569B&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Eng-MohamedHosny)
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Connect-with-me.gif?raw=true" width="30"/> Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-mohamedhosny/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emohamed.10189@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-MohamedHosny)
 
 ## 🛠️ Technical Stack & Skills
 
@@ -59,6 +59,19 @@
 ![Team Leadership](https://img.shields.io/badge/Team%20Leadership-156E57?style=for-the-badge)
 ![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-3D365C?style=for-the-badge)
 ![Teamwork](https://img.shields.io/badge/Cross--functional%20Teamwork-7C4585?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-MohamedHosny&show_icons=true&theme=transparent&hide_border=true&title_color=13B9FD&icon_color=13B9FD&text_color=8b949e" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MohamedHosny&layout=compact&theme=transparent&hide_border=true&title_color=13B9FD&text_color=8b949e" />
+
+<img src="https://streak-stats.demolab.com?user=Eng-MohamedHosny&theme=transparent&hide_border=true&stroke=13B9FD&ring=13B9FD&fire=13B9FD" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-MohamedHosny&theme=react-dark&hide_border=true&color=13B9FD&line=13B9FD&point=ffffff" width="100%" />
+
+</div>
 
 <!-- هنا هتضيف المشاريع بتاعتك بعدين -->
 
