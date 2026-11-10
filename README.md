@@ -58,17 +58,6 @@
 ![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-3D365C?style=for-the-badge)
 ![Teamwork](https://img.shields.io/badge/Cross--functional%20Teamwork-7C4585?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
-
-</div>
-
 <!-- هنا هتضيف المشاريع بتاعتك بعدين -->
 
 <div align="center">
